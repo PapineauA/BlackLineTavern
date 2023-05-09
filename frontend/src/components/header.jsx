@@ -18,6 +18,9 @@ function Header() {
           <li>
             <Link to="/events">Events</Link>
           </li>
+          <li>
+            <Link to="/contact">Contact Us</Link>
+          </li>
         </ul>
       </nav>
     </header>
