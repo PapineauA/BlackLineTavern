@@ -1,0 +1,44 @@
+/* Header styles */
+header {
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 7px;
+    font-size: 18px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 10px;
+    list-style-type: none;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+nav a:hover {
+    background-color: black;
+    color: white;
+}
