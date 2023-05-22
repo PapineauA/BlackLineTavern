@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlackLineTavern/static/css/main.81895b75.css",
+    "main.js": "/BlackLineTavern/static/js/main.c947d978.js",
+    "static/js/787.1ecc4b13.chunk.js": "/BlackLineTavern/static/js/787.1ecc4b13.chunk.js",
+    "index.html": "/BlackLineTavern/index.html",
+    "main.81895b75.css.map": "/BlackLineTavern/static/css/main.81895b75.css.map",
+    "main.c947d978.js.map": "/BlackLineTavern/static/js/main.c947d978.js.map",
+    "787.1ecc4b13.chunk.js.map": "/BlackLineTavern/static/js/787.1ecc4b13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81895b75.css",
+    "static/js/main.c947d978.js"
+  ]
+}
